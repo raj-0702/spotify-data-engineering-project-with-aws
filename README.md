@@ -5,6 +5,9 @@ In this project, I have build an ETL(extract,Transform,Load) pipeline using the 
 ### Architecture
 ![Architecture Diagram](https://github.com/raj-0702/spotify-data-engineering-project-with-aws/blob/main/spotify_architecture_diag.png)
 
+### Dataset/API used
+The dataset contains information about the Album,Song and Artist.
+
 ### Services Used
 
 1. S3
